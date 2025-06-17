@@ -1,9 +1,7 @@
 ## Hello master minds, I'm Nibrit Berlin
 
 ✨ '-' A prominent Full-stack developer with AI integrations persuing B.Tech computer science and engineering,<br/>
-🔭 '-' Advancing my capabilities and knowledge about building innovative digital solutions that blend frontend finesse with backend strength<br/>
-📫 '-' Feel free to checkout [Instagram](https://www.instagram.com/_the_fragile_soul_?igsh=Mmh5bjE1aTB0aTNm)<br/>
-⚡ '-' Also follow on [LinkedIn](www.linkedin.com/in/nibrit-berlin-b-2bb39b25a)
+🔭 '-' Advancing my capabilities and knowledge about building innovative digital solutions that blend frontend finesse with backend        strength<br/>
 
 
 
