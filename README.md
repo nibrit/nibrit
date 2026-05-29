@@ -1,30 +1,198 @@
-## Hello master minds, I'm Nibrit Berlin
+<div align="center">
 
-✨ '-' A prominent Full-stack developer with AI integrations persuing B.Tech computer science and engineering,<br/>
-🔭 '-' Advancing my capabilities and knowledge about building innovative digital solutions that blend frontend finesse with backend        strength<br/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nibrit%20Berlin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Builder%20%7C%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" />
 
+<!-- Status Badge Row -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nibrit&label=Profile+Views&color=302b63&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Java%20Development-302b63?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building%20Future--Ready%20Apps-24243e?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-302b63?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_the_fragile_soul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nibrit-berlin-b-2bb39b25a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nibritberlin3@gmail.com)
-
-
-
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nibrit&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nibrit&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nibrit&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nibrit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nibrit&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nibrit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ `whoami`
+
+```yaml
+Name     : Nibrit Berlin
+Role     : Computer Science Engineer
+Location : India
+Focus    : Java Development
+Interests: Development · Testing · AI
+Status   : Building Future-Ready Applications
+```
+
+> 🎓 B.Tech Computer Science & Engineering Student  
+> 💻 Passionate about **Full Stack Development**, **Artificial Intelligence** & **Cybersecurity**  
+> 🔐 Built a **File Encryption & Decryption Tool** using Java Cryptography  
+> 🤖 Exploring **AI-Powered Applications** and Intelligent Systems  
+> 🏸 Badminton Player &nbsp;|&nbsp; 🎮 Gamer &nbsp;|&nbsp; 🎬 Video Editor
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| Core Backend | Architecture | AI & Cloud |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Advanced%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![System Design](https://img.shields.io/badge/System%20Design-302b63?style=for-the-badge&logo=dependabot&logoColor=white) | ![AI](https://img.shields.io/badge/Artificial%20Intelligence-00adb5?style=for-the-badge&logo=openai&logoColor=white) |
+| ![Spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Cloud](https://img.shields.io/badge/Cloud%20Technologies-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+| ![Security](https://img.shields.io/badge/Secure%20Software%20Dev-24243e?style=for-the-badge&logo=shieldsdotio&logoColor=white) | | |
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Programming & Frontend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Databases
+![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Plus](https://img.shields.io/badge/SQL%20Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔐 Cipher
+**Secure File Encryption & Decryption Platform**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Crypto](https://img.shields.io/badge/Cryptography-24243e?style=flat-square&logo=letsencrypt&logoColor=white)
+
+🛡️ AES Encryption &nbsp; 🛡️ File Protection  
+🛡️ Cryptographic Security
+
+*Protect your files with military-grade encryption*
+
+</td>
+<td width="33%" align="center">
+
+### 🎵 Cipher Music
+**Ad-Free Music Streaming Platform**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🎧 YouTube API Integration &nbsp; 🎧 Playlists  
+🎧 Seamless Streaming
+
+*Music, uninterrupted.*
+
+</td>
+<td width="33%" align="center">
+
+### 📚 AI Dyslexia Study Buddy
+**AI-Powered Learning Assistant**
+
+![AI](https://img.shields.io/badge/AI-00adb5?style=flat-square&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+📖 OCR &nbsp; 🗣️ Text-To-Speech  
+🎤 Speech-To-Text &nbsp; 🧠 Smart Notes
+
+*Learning, reimagined for everyone.*
+
+</td>
+</tr>
+</table>
+</div>
+
+> 🚀 **More coming soon** — Java Applications · AI Solutions · Security Tools · Full Stack Systems
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nibrit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibrit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nibrit&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nibrit/nibrit/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nibrit/nibrit/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nibrit/nibrit/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nibrit)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nibrit)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nibrit@example.com)
+
+</div>
+
+---
+
+## ⚙️ Current Mission
+
+```java
+public class NibritBerlin {
+    public static void main(String[] args) {
+        while (alive()) {
+            learn();    // 📚 Always be learning
+            build();    // 🛠️ Ship meaningful projects
+            improve();  // 📈 1% better every day
+            repeat();   // 🔁 Consistency is key
+        }
+    }
+}
+```
+
+<div align="center">
+
+### 💡 *"Code. Learn. Build. Repeat."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
