@@ -18,12 +18,12 @@
 ## ⚡ `who am I`
 
 ```yaml
-Name     : Nibrit Berlin
-Role     : Java Developer
-Location : India
-Focus    : Java Development
-Interests: Backend Development · Testing · System Design
-Status   : Building Future-Ready Applications
+Name      : Nibrit Berlin
+Role      : Java Developer
+Location  : India
+Focus     : Java Development
+Interests : Backend Development · Testing · System Design
+Status    : Building Future-Ready Applications
 ```
 
 > 🎓 B.Tech Computer Science & Engineering Student  
